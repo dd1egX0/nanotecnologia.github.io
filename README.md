@@ -9,7 +9,7 @@
 <body>
    <div class="megacontenedor"></div> <h1>Los Beneficios y usos de la nanotecnología</h1>
     <h2>¿Qué es la nanotecnologia?</h2>
-    <h2>
+    
         Esta rama tecnológica manipula la estructura molecular de los materiales para cambiar sus propiedades intrínsecas y obtener otros con aplicaciones revolucionarias. Es el caso del grafeno —carbono modificado más duro que el acero, más ligero que el aluminio y casi transparente— o las nanopartículas que se emplean en áreas como la electrónica, la energía, la biomedicina o la defensa.
         
         En 1959 el premio Nobel y físico norteamericano Richard Feynman fue el primero en hablar de las aplicaciones de la nanotecnología en el Instituto Tecnológico de California (Caltech). Con el siglo XXI llegó la consolidación, la comercialización y el apogeo de esta área que engloba otras como la microfabricación, la química orgánica o la biología molecular. Solo en Estados Unidos, por ejemplo, se invirtieron más de 18.000 millones de dólares entre 2001 y 2013 a través del NNI (National Nanotechnology Iniciative) para convertir este sector en motor de crecimiento económico y competitividad.
